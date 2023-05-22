@@ -14,5 +14,7 @@ The project incorporates event listeners and DOM manipulation techniques to crea
 
 Project Structure
 index.html: The main HTML file that represents the website's structure.
+
 styles.css: The CSS file that contains the styles for the website's layout and appearance.
-script.js: The JavaScript file that handles the interactivity and functionality of the website.
+
+app.js: The JavaScript file that handles the interactivity and functionality of the website.
