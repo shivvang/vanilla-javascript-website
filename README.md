@@ -9,6 +9,8 @@ The project incorporates event listeners and DOM manipulation techniques to crea
 
 -Dark and Light mode
 
+-Responsive design for mobile and desktop devices
+
 ## Technologies Used
 
 - HTML: Used for creating the website's structure.
