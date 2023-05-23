@@ -2,6 +2,11 @@
 This repository contains a frontend movie website project built using vanilla JavaScript, CSS, and HTML.
 The project incorporates event listeners and DOM manipulation techniques to create an interactive user experience.
 
+## Features 
+-Image sliders or carousels for showcasing content
+-Use of CSS animations or transitions for visual effects
+-Dark and Light mode
+
 ## Technologies Used
 
 - HTML: Used for creating the website's structure.
