@@ -127,6 +127,7 @@ body{
 .featured-container{
     height: 50vh;
     padding: 50px;
+    overflow: hiddens;
 }
 
 .featured-title{
@@ -137,6 +138,7 @@ body{
     width: 500px;
     color: rgb(172, 166, 166);
     margin:30px 0;
+    
 }
 
 .featured-button{
@@ -214,6 +216,7 @@ opacity: 1;
     width: 230px;
     opacity:0;
     transition: 1s all ease-in-out;
+   
 }
 
 .movie-button{
