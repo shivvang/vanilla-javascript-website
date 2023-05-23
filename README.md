@@ -4,7 +4,9 @@ The project incorporates event listeners and DOM manipulation techniques to crea
 
 ## Features 
 -Image sliders or carousels for showcasing content
+
 -Use of CSS animations or transitions for visual effects
+
 -Dark and Light mode
 
 ## Technologies Used
